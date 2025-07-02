@@ -1,0 +1,12 @@
+Topics Covered:
+
+Input, 
+Output,
+Comment, 
+String Manipulation, 
+Variable, 
+Naming convention,
+
+---
+
+len() function to calculate the size of the String
