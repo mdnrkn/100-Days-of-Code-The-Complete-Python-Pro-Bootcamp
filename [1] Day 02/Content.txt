@@ -1,0 +1,48 @@
+Topics Covered:
+
+Data Types,
+Numbers,
+Mathematical Operations,
+Assignment Operators,
+Type Error,
+Type Casting, 
+F-String
+
+---
+
+Given a string, S = "Hello":
+
+Positive indexing starts from the beginning:
+S[0] = 'H', 
+S[1] = 'e', 
+S[2] = 'l', 
+S[3] = 'l', 
+S[4] = 'o'
+
+Negative indexing starts from the end:
+S[-1] = 'o', 
+S[-2] = 'l', 
+S[-3] = 'l', 
+S[-4] = 'e', 
+S[-5] = 'H'
+
+---
+
+Large numbers can be written using underscores for better readability.
+123_456 is treated as 123456, works just like commas, but only for formatting.
+
+---
+
+type() function to check data type.
+
+---
+
+/  → Float division → (6 / 3) = 2.0
+
+// → Floor division → (6 // 3) = 2
+
+** → Exponentiation → (2 ** 3) = 8
+
+---
+
+round() function to round float values.
