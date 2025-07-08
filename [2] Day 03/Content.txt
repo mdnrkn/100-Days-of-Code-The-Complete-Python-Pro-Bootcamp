@@ -1,0 +1,43 @@
+Topics Covered:
+
+Conditional Statements, 
+Logical Operators, 
+Modulo Operator, 
+Code Blocks & Scope
+
+---
+
+Comparison Operators used to compare values:
+
+== → equal
+!= → not equal
+<, <= → less than (or equal)
+>, >= → greater than (or equal)
+
+---
+
+Logical Operators used to combine conditions:
+
+and → both must be true
+or → at least one must be true
+not → reverses condition
+
+---
+
+Other Keywords
+
+pass → placeholder for empty blocks
+True, False → Boolean values
+
+---
+
+String Methods
+
+upper() → converts to uppercase
+lower() → converts to lowercase
+
+---
+
+Multiline String
+
+Use ''' ... ''' for multi-line text blocks.
