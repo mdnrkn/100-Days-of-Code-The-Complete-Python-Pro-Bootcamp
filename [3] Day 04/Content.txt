@@ -1,0 +1,6 @@
+Topics Covered:
+
+Randomization,
+Module,
+Python List,
+Nested List
