@@ -1,0 +1,6 @@
+Topics Covered:
+
+Loop,
+Sum function,
+Range function,
+Shuffle function
