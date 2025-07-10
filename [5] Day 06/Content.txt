@@ -1,0 +1,5 @@
+Topics Covered:
+
+While Loop,
+Functions,
+Indentation
