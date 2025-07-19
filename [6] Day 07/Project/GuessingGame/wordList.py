@@ -1,0 +1,1 @@
+word_list = ["Hello", "World", "Python", "Guess", "Challenge", "Game", "Chair", "Rock", "Paper", "Water"]
